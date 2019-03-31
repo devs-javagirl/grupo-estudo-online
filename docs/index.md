@@ -1,3 +1,8 @@
+---
+layout: page
+title: Grupo de estudo online
+---
+
 # Grupo de estudo Java online
 
 Nesta página iremos reunir todas as informações do grupo de estudo. O grupo de estudo online é uma ação da comunidade DevsJavaGirl para auxiliar todas as pessoas que se consideram mulheres a elevar seu conhecimento técnico.
