@@ -8,7 +8,7 @@ Iremos seguir o conteúdo já produzido pela nossa diva [Loiane Groner](https://
 O foco da primeira semana será configuração do ambiente de trabalho.
 O que vocês precisam instalar:
 
-- Passo 1) **Slack** - Se certifique que você tem acesso ao workspace do DevsJavaGirl (https://devsjavagirl.slack.com/) e está no canal #grupo_estudos_online. Ele será nosso meio de comunicação oficial. Você deve ter recebido um convite pra entrar no workspace, mas se não, favor entrar em contato pelo email devsjavagirl @ gmail.com.
+- Passo 1) **Slack** - Se certifique que você tem acesso ao workspace do DevsJavaGirl (https://devsjavagirl.slack.com/) e está no canal #grupo_estudos_online. Ele será nosso meio de comunicação oficial. Você deve ter recebido um convite pra entrar no workspace, mas se não, favor entrar em contato pelo email devsjavagirl @ gmail.com. Se você preferir pode [baixar o app do Slack](https://slack.com/downloads/) no seu computador ou então usar pelo browser mesmo.
 
 - Passo 2) **Instalar o Java** - se certifique que você tem o Java (versão 8 ou superior) em sua máquina. Se voc precisar instalar, [neste link tem explicando como fazer](https://github.com/backend-br/como-instalar-xyz/tree/master/tutoriais/java).
 
