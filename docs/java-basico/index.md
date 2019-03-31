@@ -1,0 +1,19 @@
+# Turma de Java básico - grupo de estudo online
+
+Iremos seguir o conteúdo já produzido pela nossa diva [Loiane Groner](https://loiane.com/). Ela tem uma excelente didática e um curso gratuito com todo o conteúdo que iremos precisar =). 
+
+## Metodologia
+* Toda semana a turma irá receber um conteúdo semanal, juntamente com um ou mais exercícios pra fazer.
+* Ao longo da semana, as participantes vão tirando dúvidas no Slack da comunidade, no canal específico p=do grupo de estudo online
+* Se algum assunto estiver gerando muitas dúvidas, iremos produzir conteúdo extra para esclarecer os pontos que a turma tem mais dúvida
+* Fiquem a vontade para usar MUITO o canal do Slack (todas as participantes da turma serão convidadas para o canal). É compartilhando conhecimento que iremos fortalecermos umas as outras <3.
+
+## Cronograma
+### Semana 0
+O foco da primeira semana será configuração do ambiente de trabalho.
+O que vocês precisam instalar:
+
+1) **Instalar o Java** - se certifique que você tem o Java (versão 8 ou superior) em sua máquina. Se voc precisar instalar, [neste link tem explicando como fazer](https://github.com/backend-br/como-instalar-xyz/tree/master/tutoriais/java).
+2) **IDE** - Vamos precisar de uma IDE (Integrated Development Enviroment), que nada mais é do que um programa que vai nos ajudar dando ferramentas para facilitar nosso processo de desenvolvimento. Se você não tem nenhuma instalada e nem preferência, eu recomendo o [IntelliJ](https://www.jetbrains.com/idea/download), porque creio que seja a ferramenta mais utilizada no mercado. Mas se você já tiver e/ou preferir instalar o [Eclipse](https://www.eclipse.org/downloads/) ou até mesmo o [NetBeans](https://netbeans.apache.org/download/index.html), não tem problema. **Todos eles possuem versão gratuita**.
+3) **Hello World** - Hello World é o primeiro programa que todo mundo faz quando está iniciando uma nova linguagem. Não seremos diferentes e vamos ter o prazer de fazer o nosso primeiro Hello World! Claro que se vc ja fez algum código em Java, não precisar fazer esse passo. Mas para aquelas que acabaram de instalar o Java e/ou IDE, é bom que faça este passo para verificar se está tudo funcionando certinho e está pronta para os próximos passos! 
+Não tem ideia de como fazer o Hello World? A Loiane tem uma [aula sobre isso](https://www.youtube.com/watch?v=mu2ti43cgwc&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r), então pode seguir a aula dela. Ela faz o Hello World usando um editor de texto (Sublime), mas você pode fazer já na IDE que você instalou no passo 2.
