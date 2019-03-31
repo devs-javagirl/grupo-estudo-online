@@ -1,8 +1,3 @@
----
-layout: page
-title: Java Básico
----
-
 # Turma de Java básico - grupo de estudo online
 
 Iremos seguir o conteúdo já produzido pela nossa diva [Loiane Groner](https://loiane.com/). Ela tem uma excelente didática e um curso gratuito com todo o conteúdo que iremos precisar =). 
