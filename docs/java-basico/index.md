@@ -4,7 +4,7 @@ Iremos seguir o conteúdo já produzido pela nossa diva [Loiane Groner](https://
 
 
 ## Cronograma
-### Semana 0
+### Semana 0 (de 01 a 07/abril)
 O foco da primeira semana será configuração do ambiente de trabalho.
 O que vocês precisam instalar:
 
@@ -12,10 +12,10 @@ O que vocês precisam instalar:
 
 - Passo 2) **Instalar o Java** - se certifique que você tem o Java (versão 8 ou superior) em sua máquina. Se voc precisar instalar, [neste link tem explicando como fazer](https://github.com/backend-br/como-instalar-xyz/tree/master/tutoriais/java).
 
-Se você estiver usando Windows, você vai precisar:
-- Baixar o JDK
-- Executar/deszipar o arquivo numa pasta
-- Configurar as variáveis de ambiente do Windows - Para isso tem esse vídeo tem explicando direitinho: https://www.youtube.com/watch?v=LzuVx7lm_WI
+>Se você estiver usando Windows, você vai precisar:
+>- Baixar o JDK
+>- Executar/deszipar o arquivo numa pasta
+>- Configurar as variáveis de ambiente do Windows - Para isso tem esse vídeo tem explicando direitinho: https://www.youtube.com/watch?v=LzuVx7lm_WI
 
 - Passo 3) **IDE** - Vamos precisar de uma IDE (Integrated Development Enviroment), que nada mais é do que um programa que vai nos ajudar dando ferramentas para facilitar nosso processo de desenvolvimento. Se você não tem nenhuma instalada e nem preferência, eu recomendo o [IntelliJ](https://www.jetbrains.com/idea/download), porque creio que seja a ferramenta mais utilizada no mercado. Mas se você já tiver e/ou preferir instalar o [Eclipse](https://www.eclipse.org/downloads/) ou até mesmo o [NetBeans](https://netbeans.apache.org/download/index.html), não tem problema. **Todos eles possuem versão gratuita**.
 
