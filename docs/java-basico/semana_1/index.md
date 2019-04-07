@@ -1,4 +1,4 @@
-# Semana 1 (de 08 a 17/abril)
+# Semana 1 (de 08 a 14/abril)
 
 Na semana passada preparamos nosso ambiente de trabalho e fizemos um HelloWorld <3. 
 Agora vamos aprender o basicão do Java, estudando como funcionam as variáveis! 
@@ -25,7 +25,7 @@ A diferença (além do formato texto x vídeo), é que na apostila da Caelum o c
 | Exercícios | Ver seção exercícios abaixo |
 
 
-**Exercícios:**
+##Exercícios:
 Programação é treino! Nós não iremos aprender a programar só vendo as aulas, então vamos colocar a mão na massa para reforçar o que aprendemos.
 
 1. Antes de tudo, crie um projeto na sua IDE para colocar os arquivos Java que iremos criar nos exercícios. Pode colocar o nome que quiser no projeto (`java-basico`, por exemplo).
@@ -57,7 +57,7 @@ Eu gosto de Java: true
 
 **Exercício 2: Quanto vale o valor da hora de trabalho de Maria?**
 
-Maria está querendo saber quanto vale o valor da hora de trabalho dela e pediu sua ajuda nisso.   
+Maria está querendo saber quanto vale sua hora de trabalho dela e pediu sua ajuda nisso.   
 Faça um programa que calcula o valor da hora de trabalho de Maria. Ela recebe um salário mensal de R$2.500,50 e trabalha 40h/semana. 
  
 Crie uma classe chamada CalculoDaHora com um bloco main. No método main declare três variáveis (identifique qual o tipo mais adequado): 
