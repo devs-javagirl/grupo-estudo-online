@@ -25,7 +25,7 @@ A diferença (além do formato texto x vídeo), é que na apostila da Caelum o c
 | Exercícios | Ver seção exercícios abaixo |
 
 
-##Exercícios:
+## Exercícios:
 Programação é treino! Nós não iremos aprender a programar só vendo as aulas, então vamos colocar a mão na massa para reforçar o que aprendemos.
 
 1. Antes de tudo, crie um projeto na sua IDE para colocar os arquivos Java que iremos criar nos exercícios. Pode colocar o nome que quiser no projeto (`java-basico`, por exemplo).
