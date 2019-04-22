@@ -9,3 +9,4 @@ Iremos seguir o conteúdo já produzido pela nossa diva [Loiane Groner](https://
 | --- | --- |
 | Semana 0 (de 01 a 07/04) | [Preparação do ambiente](semana_0/index.md) |
 | Semana 1 (de 08 a 14/04) | [Variáveis](semana_1/index.md) |
+| Semana 2 (de 22 a 28/04) | [Condicionais](semana_2/index.md) |
