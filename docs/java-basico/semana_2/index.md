@@ -1,4 +1,4 @@
-# Semana 2 (de 22 a 27/abril)
+# Semana 2 (de 22 a 28/abril)
 
 Semana passada não consegui postar um conteúdo, então a semana 2 está iniciando agora dia 22. Na última semana de conteúdo, aprendemos as variáveis do Java. Agora o curso vai ficar beeem mais legal e divertido: iremos aprender as **condicionais** do Java.
 
