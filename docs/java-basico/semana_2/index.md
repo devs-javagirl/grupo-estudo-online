@@ -8,7 +8,7 @@ Esse é um assunto bem básico que vai ser utilizado sempre daqui pra frente. En
 
 | Conteúdo | Link |
 | --- | --- |
-| If/Else | [Aula 14 curso Loiane](https://www.youtube.com/watch?v=ELBqT_rueAQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=14) |
+| If/Else | [Aula 14 curso Loiane](https://www.youtube.com/watch?v=KJYSXTYgL_o&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=18) |
 | Switch/Case | [Aula 15 curso Loiane](https://www.youtube.com/watch?v=JTLgFZyBUN4&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=19) |
 | Exercícios | [Lista de exercícios da Loiane](https://www.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-14-15) |
 
