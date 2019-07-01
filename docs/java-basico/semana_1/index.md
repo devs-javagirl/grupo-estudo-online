@@ -1,4 +1,4 @@
-# Semana 1 (de 08 a 14/abril)
+# Semana 1
 
 Na semana passada preparamos nosso ambiente de trabalho e fizemos um HelloWorld <3. 
 Agora vamos aprender o basicão do Java, estudando como funcionam as variáveis! 
