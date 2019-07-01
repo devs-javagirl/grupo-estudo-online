@@ -1,4 +1,4 @@
-# Semana 3 (de 29/abril a 05/maio)
+# Semana 3
 
 Olá meninas!! Estamos bem pertinho de terminar o conteúdo básico! Terminando essas lições vcs estarao com o básico para gente comecar a fazer coisas mais divertidas <3.
 
