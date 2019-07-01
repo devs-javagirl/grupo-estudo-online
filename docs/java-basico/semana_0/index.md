@@ -1,4 +1,4 @@
-# Semana 0 (de 01 a 07/abril)
+# Semana 0
 
 O foco da primeira semana será configuração do ambiente de trabalho.
 O que vocês precisam instalar:
