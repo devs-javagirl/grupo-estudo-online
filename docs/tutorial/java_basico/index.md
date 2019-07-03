@@ -1,6 +1,6 @@
-#Java básico#
+# Java básico 
 
-...Introdução à parte 1 do tutorial...
+...Introdução à parte 1 do tutorial...adicionar texto
 
 1. [O que é esse tal de Java?](o_que_e_java.md)
 2. [O que é IDE e pra que preciso disso?](ide.md)
