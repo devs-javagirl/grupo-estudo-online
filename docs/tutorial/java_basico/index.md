@@ -9,4 +9,4 @@
 5. [Loops](loop.md)
 6. [Array](array.md)
 7. [Pacotes - organizando a bagunça](pacote.md)
-8. [Debug] (debug.md)
+8. [Debug](debug.md)
